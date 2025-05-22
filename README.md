@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 -->
  - 🐕 I’m currently working on the DogOnline Woocommerce store front 
  - 🌱 I’m currently learning #HomeAssistant
- - ☕ Fun fact: I'm a coffee snob
+ - ☕ Fun fact: I'm a bit of a coffee snob
