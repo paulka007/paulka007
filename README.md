@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on the DogOnline Woocommerce store
-🌱 I’m currently learning #HomeAssistant
-⚡ Fun fact: I'm a coffee snob
+ - 🔭 I’m currently working on the DogOnline Woocommerce store
+ - 🌱 I’m currently learning #HomeAssistant
+ -⚡ Fun fact: I'm a coffee snob
